@@ -1,0 +1,23 @@
+{
+  "name": "@shimima13/my-utils",
+  "version": "1.0.0",
+  "description": "javascript utils for learning purpose",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shimima13/myUtils.git"
+  },
+  "keywords": [
+    "util",
+    "demo"
+  ],
+  "author": "shimima13",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shimima13/myUtils/issues"
+  },
+  "homepage": "https://github.com/shimima13/myUtils#readme"
+}
