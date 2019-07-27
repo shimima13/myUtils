@@ -1,6 +1,6 @@
 {
   "name": "@shimima13/my-utils",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "javascript utils for learning purpose",
   "main": "index.js",
   "scripts": {
@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/shimima13/myUtils/issues"
   },
-  "homepage": "https://github.com/shimima13/myUtils#readme"
+  "homepage": "https://github.com/shimima13/myUtils#readme",
+  "devDependencies": {
+    "@types/node": "^12.6.8"
+  }
 }
