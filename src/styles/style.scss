@@ -1,0 +1,19 @@
+$laono-pink: #e2a6c4;
+
+@mixin transform($property) {
+  -webkit-transform: $property;
+  -ms-transform: $property;
+  transform: $property;
+}
+
+.app {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  height: 100%;
+
+  h2 {
+    color: $laono-pink;
+    @include transform(rotate(30deg));
+  }
+}
